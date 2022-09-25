@@ -4,6 +4,8 @@
 
 Consumo y pintado de la API con javaScript vanilla, utilizando async, await y fetch.
 
+![preview](https://user-images.githubusercontent.com/112582420/192159356-84058709-5dd3-4a77-b832-d904d6300767.png)
+
 - HTML
 - CSS
 - JS Vanilla
